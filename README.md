@@ -1,6 +1,9 @@
 # Ejemplo Graphviz ABB
-Curso Estructuras de datos Seccion B Segundo semestre 2019
-Derrollado por Fernando Antonio Hernandez 
+
+**Curso Estructuras de datos Seccion B Segundo semestre 2019** 
+
+*Desarrollado por Aux de catedra Fernando Antonio Hernandez*
+
 
 
 Los puntos mas importantes del archivo son los siguientes.
