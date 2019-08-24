@@ -19,6 +19,8 @@ Los puntos mas importantes del archivo son los siguientes.
     graph [splines=ortho, nodesep=0.5];
 
  - La primer linea que es para que la imagen se expanda tanto para ambos lados, como tambien para arriba y abajo.
+ - splines = ortho es para que decirle que las uniones trate que sean lineas rectas
+ - nodesep = 0.5 es que tanto va a guardar su distancia un nodo de otro
 
 
 ## Configurar el nodo
