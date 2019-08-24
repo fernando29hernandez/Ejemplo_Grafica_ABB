@@ -18,7 +18,7 @@ Los puntos mas importantes del archivo son los siguientes.
     rankdir=TB;
     graph [splines=ortho, nodesep=0.5];
 
- - La primer linea que es para que la imagen se expando tanto para ambos lados, como tambien para arriba y abajo.
+ - La primer linea que es para que la imagen se expanda tanto para ambos lados, como tambien para arriba y abajo.
 
 
 ## Configurar el nodo
