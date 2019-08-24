@@ -28,7 +28,7 @@ Los puntos mas importantes del archivo son los siguientes.
     node [shape = record, style=filled, fillcolor=seashell2,width=0.7,height=0.2];
     
 
-|Propiedad|Valor  |Decripcion|
+|Propiedad|Valor  |Descripcion|
 |--|--|--|
 |Shape|record|forma que tenda el nodo en este caso rectangular|
 |style|filled|Le indicamos que tendra un color o esta conteniendo una imagen|
