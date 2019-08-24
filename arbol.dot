@@ -1,0 +1,35 @@
+digraph arbol 
+{
+    rankdir=TB;
+    graph [splines=ortho, nodesep=0.5];
+    node [shape = record, style=filled, fillcolor=seashell2,width=0.7,height=0.2];
+    
+    nodo20 [ label ="<C0>|20|<C1>"];
+    nodo15 [ label ="<C0>|15|<C1>"];
+    nodo18 [ label ="<C0>|18|<C1>"];
+    nodo72 [ label ="<C0>|72|<C1>"];
+    nodo79 [ label ="<C0>|79|<C1>"];
+    nodo36 [ label ="<C0>|36|<C1>"];
+    nodo75 [ label ="<C0>|75|<C1>"];
+    nodo95 [ label ="<C0>|95|<C1>"];
+    nodo77 [ label ="<C0>|77|<C1>"];
+    nodo100 [ label ="<C0>|100|<C1>"];
+    nodo78 [ label ="<C0>|78|<C1>"];
+    nodo84 [ label ="<C0>|84|<C1>"];
+    nodo86 [ label ="<C0>|86|<C1>"];
+    nodo80 [ label ="<C0>|80|<C1>"];
+    
+    nodo20:C0->nodo15;
+    nodo15:C1->nodo18;
+    nodo20:C1->nodo72;
+    nodo95:C0->nodo79;
+    nodo72:C0->nodo36;
+    nodo72:C1->nodo75;
+    nodo95:C1->nodo100;
+    nodo79:C1->nodo84;
+    nodo84:C1->nodo86;
+    nodo84:C0->nodo80;
+    nodo77:C0->nodo20;
+    nodo77:C1->nodo95;
+    nodo79:C0->nodo78;
+}
